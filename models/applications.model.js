@@ -1,3 +1,7 @@
+/**
+ * @author Eder Morga
+ * @description Definicion de la coleccion Aplications
+ */
 const mongoose = require('mongoose');
 
 const aplicationsSchema = new mongoose.Schema({

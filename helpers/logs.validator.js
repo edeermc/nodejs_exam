@@ -1,3 +1,7 @@
+/**
+ * @author Eder Morga
+ * @description Creamos el esquema para la validación con Joi y la devolvemos para su uso en donde se requiera
+ */
 const Joi = require('joi');
 
 const logSchema = Joi.object({

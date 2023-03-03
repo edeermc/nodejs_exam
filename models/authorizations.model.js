@@ -1,3 +1,7 @@
+/**
+ * @author Eder Morga
+ * @description Definicion de la coleccion Authorizations
+ */
 const mongoose = require('mongoose');
 
 const authorizationsSchema = new mongoose.Schema({

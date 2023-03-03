@@ -1,3 +1,7 @@
+/**
+ * @author Eder Morga
+ * @description Definicion de la coleccion Logs
+ */
 const mongoose = require('mongoose');
 
 const logsSchema = new mongoose.Schema({

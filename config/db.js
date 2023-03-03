@@ -1,3 +1,7 @@
+/**
+ * @author Eder Morga
+ * @description Conexión a BD de Mongo mediante la cadena de conexión
+ */
 const mongoose = require('mongoose');
 
 mongoose.connect('mongodb+srv://root:TF9XntF7tU2htCmN@cluster0.cc92o.mongodb.net/nodejs_exam?retryWrites=true&w=majority');
